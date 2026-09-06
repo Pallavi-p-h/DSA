@@ -30,6 +30,6 @@ bin/
 .DS_Store
 
 ###
-.idea
+.idea/
 
-DSA_java.iml
+*.iml
